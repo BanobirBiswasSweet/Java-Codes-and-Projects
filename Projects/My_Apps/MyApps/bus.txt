@@ -1,0 +1,108 @@
+Silk
+Ac
+Dhaka
+Rajshahi
+19-08-2015
+800
+11.10 PM
+6.30 AM
+20
+Padma
+Ac
+Dhaka
+Rajshahi
+19-08-2015
+600
+11.10 AM
+6.30 PM
+20
+Kalni
+Ac
+Dhaka
+Sylhet
+19-08-2015
+1000
+3.30 PM
+9.50 PM
+20
+Ena
+Ac
+Dhaka
+Sylhet
+19-08-2015
+700
+3.30 PM
+9.50 PM
+20
+Tisha
+Non_Ac
+Dhaka
+Khulna
+19-08-2015
+550
+09.10 AM
+03.30 PM
+20
+Shohag
+Ac
+Dhaka
+Khulna
+19-08-2015
+550
+09.10 AM
+03.30 PM
+20
+Shamoli
+Ac
+Dhaka
+Barisal
+19-08-2015
+1200
+3.30 PM
+9.50 PM
+20
+Dhansiri
+Ac
+Dhaka
+Barisal
+19-08-2015
+900
+3.30 PM
+9.50 PM
+20
+Agrabad
+Ac
+Dhaka
+Chittagong
+19-08-2015
+1400
+3.30 PM
+11.50 PM
+20
+Kornofuli
+Ac
+Dhaka
+Chittagong
+19-08-2015
+1100
+3.30 PM
+11.50 PM
+20
+GreenLine
+Ac
+Dhaka
+Rangpur
+19-08-2015
+600
+10.30 AM
+7.50 PM
+20
+Hanif
+Non_Ac
+Dhaka
+Rangpur
+19-08-2015
+600
+10.30 AM
+7.50 PM
+20
