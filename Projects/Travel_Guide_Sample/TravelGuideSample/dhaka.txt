@@ -1,0 +1,19 @@
+Dhaka is the capital and largest city of Bangladesh. It is the cultural and economic hub of the country. Having a colossal historical background, the old part of the city, known as Old Dhaka or Old Town, is home to a broad range of architectural heritage starting from the vestiges of the Mughal Empire to the British Colonial buildings. Being the centre of the independence movements of Bangladesh, Dhaka also hosts some significant national monuments and structures. There are a number of annual cultural events held in Dhaka like Pohela Falgun, Pohela Baishakh and Ekushe Book Fair which add a unique flavour to the city.
+package 1 :
+Time:7 days 6 nights.
+Places to Visit:lalbagh fornt,Dhakeshwari Temple,Ahsan Manjil Parliament Building,Baitul Mukarram Mosque,Jatiyo Sriti Shoudho, Bangladesh National Museum ,Sonargaon ,Shaheed Minar,Liberation War Museum.
+Food:daily breakfast lunch and dinner with all taxes & service charge included
+Hotel:The Westin
+Cost:30000 BDDt
+package 2 :
+Time:5 days 4 nights.
+Places to Visit:lalbagh fornt,Dhakeshwari Temple,Ahsan Manjil Parliament Building,Baitul Mukarram Mosque,Jatiyo Sriti Shoudho, Bangladesh National Museum  
+Food:daily breakfast lunch and dinner with all taxes & service charge included
+Hotel:Dhaka Regency Hotel & Resort
+Cost:20000BDDT
+package 3 :
+Time:7 days 6 nights.
+Places to Visit:lalbagh fornt,Dhakeshwari Temple,Ahsan Manjil Parliament Building,Baitul Mukarram Mosque,Jatiyo Sriti Shoudho, Bangladesh National Museum  
+Food:daily breakfast lunch and dinner with all taxes & service charge included
+Hotel: Lake Shore Hotel
+Cost:15000BDDT

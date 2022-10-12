@@ -1,0 +1,14 @@
+NAME: sweet
+EMAIL: df
+ADDRESS: sdf
+CARD NAME: wert
+CARD NUMBER: 2334
+CARD PIN : 456
+CARD EXP: 234
+Package Bought:
+package 1 :
+Time:7 days 6 nights.
+Places to Visit:Rangpur Division:Mithapukur Mosque,Batashan Mound,Begum Rokya's House and ancient Mosque,Fulchowki Mosque,Dargah of Shah Ismail Gaji,Bagduar Mound,Chaprakot Mound,Laldighi Nine domed Mosque & Tomb,Tajhat Jamindar Bari,Darian Durga Mound,Nidaria Mosque,Birat Rajar Bari & Mound,Kataduar Dargah,Dharmapaler Garh,Ramsagar Temple,Sura Mosque,Ancient Mosque (Nayabad),Ancient Temple, Kantanagar Temple,Sita Kot Bihar,Arun Dhap,Chor Chakravorty's Mound,Kanchir Hari,Ghoraghat Fort,Baro Paiker Garh,Baigram Mandir,Gopalganj Temple,Mosque at Mahisantosh, Mirzapur Shahi Mosque,Imambara (Atowari)Bodeshwari Temple,Golok Dham Temple, Dholhat Temple,Jamalpur Jami Mosque,Sardarpara Jami Mosque, Mekurtan Shahi Mosque,Fort Mound,Dargah of Shah Ata,Ancient Kazi Mosque 
+Food:daily breakfast lunch and dinner with all taxes & service charge included.
+Hotel:Rose Valley Resort 
+Cost:30000BDDT

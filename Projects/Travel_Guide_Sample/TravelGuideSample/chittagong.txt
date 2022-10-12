@@ -1,0 +1,19 @@
+chittagong region is located in the south- eastern part of Bangladesh. Chittagong had been a sea port since the ancient time. Traders from different countries including Arab had business transactions with this port since 9th century. 
+package 1 :
+Time:7 days 6 nights.
+Places to Visit:World War II Cemetery,Foy's Lake,Patenga Sea Beach,Boat Ride in Karnafuli,Sitakunda Eco Park,University of Chittagong,D.C. Hill ,The Batali Hill ,Tomb of Sultan Bayazid Botani ,Shrine of Shah Amanat,Cox bazar,Badorban,khagrachori,Himchori,Naval Beach.
+Food:daily breakfast lunch and dinner with all taxes & service charge included.
+Hotel:SeaGull.
+Cost:40000 BDDT
+package 2 :
+Time:5 days 4 nights.
+Places to Visit: World War II Cemetery,Foy's Lake,Patenga Sea Beach,Boat Ride in Karnafuli,Sitakunda Eco Park,University of Chittagong,D.C. Hill ,The Batali Hill .
+Food:daily breakfast lunch and dinner with all taxes & service charge included.
+Hotel:Ambassador Residency 
+Cost:20000BDDT
+package 3 :
+Time:3 days 2 night .
+Places to Visit: World War II Cemetery,Foy's Lake,Patenga Sea Beach,Boat Ride in Karnafuli +COX BAZAR.
+Food:daily breakfast lunch and dinner with all taxes & service charge included
+Hotel:Orchid Business Hotel
+Cost:15000BDDT

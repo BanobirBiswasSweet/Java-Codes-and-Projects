@@ -1,0 +1,19 @@
+Barisal is a the capital of Barisal division. Ancient name of was Chandradvipa It is fast growing city on the Kirtankhola River. Bakerganj was renamed as Barisal district. It is one of the am old port in Bangladesh. Rivers, canals - Bill, forests are the main natural beauty of this land.It is 373 km by road from capital city Dhaka. It was declared as a municipality city in 1876. Pyarilala Ray was the first chairman of Barisal municipality and was turned into a City Corporation in 2000.
+package 1 :
+Time:7 days 6 nights.
+Places to Visit: Aswini kumar town hall,Baptist church,Badho-Vumi on river bank,Brass image of Manasa weighing three maunds (Char Bania Bari),Catholic church,Ebadullah Mosque,Girja Mahalla,Gutia Masque,Joint Mosque at Bhatikhana,Kali Bari of Mukunda Das Kittonkhola River,Kasai Mosque,One domed Mosque (Kasba),Oxford Church,Rammohan Samadhi Mandir,Sujabad Kella,Sangram Kella, Sharkal Fort,Sandha nadi/River
+Food:daily breakfast lunch and dinner with all taxes & service charge included.
+Hotel:Hotel Ali International
+Cost:25000BDDT
+package 2 :
+Time:5 days 4 nights.
+Places to Visit: Aswini kumar town hall,Baptist church,Badho-Vumi on river bank,Brass image of Manasa weighing three maunds (Char Bania Bari),Catholic church,Ebadullah Mosque,Girja Mahalla,Gutia Masque,Joint Mosque at Bhatikhana,Kali Bari of Mukunda Das Kittonkhola River,Kasai Mosque,One domed Mosque (Kasba),
+Food:daily breakfast lunch and dinner with all taxes & service charge included
+Hotel:Hotels Amiri
+Cost:20000BDDT
+package 3 :
+Time:7 days 6 nights.
+Places to Visit:  Aswini kumar town hall,Baptist church,Badho-Vumi on river bank,Brass image of Manasa weighing three maunds (Char Bania Bari),Catholic church,Ebadullah Mosque,Girja Mahalla,Gutia Masque,Joint Mosque at Bhatikhana,Kali Bari of Mukunda Das Kittonkhola River
+Food:daily breakfast lunch and dinner with all taxes & service charge included
+Hotel:Hotel Guest
+Cost:15000BDDT

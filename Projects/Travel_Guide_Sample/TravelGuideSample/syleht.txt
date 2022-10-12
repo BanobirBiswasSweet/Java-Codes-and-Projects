@@ -1,0 +1,19 @@
+Sylhet is a northern city of Bangladesh.It is a beautiful city with more than 8 lakh population and metropoliton has more than 13 lakh.In Sylhet you will get- *Beautiful tea gardens.
+package 1 :
+Time:7 days 6 nights.
+Places to Visit: Jaflong, Lalakhal, Madhobkundo, Mahobpur , Srimangal,Alurtol eco park,Tanguar haor,Jointapur bihar,Hakaluki haor,Nazimgarh,Zakaria city,Sylhet divisional museeum,Osmani museum,The museum of Raja's,Monipuri villages,The Shrine of Hazrat ShahJalal (R), Shrine of Hajrat Shah Paran (R).
+Food:daily breakfast lunch and dinner with all taxes & service charge included.
+Hotel:Hotel Dallas
+Cost:30000BDDT
+package 2 :
+Time:7 days 6 nights.
+Places to Visit: Jaflong,Lalakhal,Madhobkundo,Mahobpur,Srimangal,Alurtol eco park,Tanguar haor,Jointapur bihar,Hakaluki haor,Nazimgarh,Zakaria city,The Shrine of Hazrat ShahJalal (R), Shrine of Hajrat Shah Paran (R).
+Food:daily breakfast lunch and dinner with all taxes & service charge included.
+Hotel:Surma Valley Rest House
+Cost:25000BDDT
+package 3 :
+Time:7 days 6 nights.
+Places to Visit: Jaflong,Lalakhal,Madhobkundo,Mahobpur,Srimangal,Alurtol eco park,Tanguar haor,Jointapur bihar,Hakaluki haor,Monipuri villages,The Shrine of Hazrat ShahJalal (R), Shrine of Hajrat Shah Paran (R). 
+Food:daily breakfast lunch and dinner with all taxes & service charge included.
+Hotel:Bangladesh Tea Research Institute
+Cost:20000BDDT

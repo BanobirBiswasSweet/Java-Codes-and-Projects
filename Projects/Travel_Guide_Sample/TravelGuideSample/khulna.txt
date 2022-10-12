@@ -1,0 +1,19 @@
+Khulna division is in the southwest part of Bangladesh has an area of 22274 sq. km and a population of 14.47 million. There are 10 districts and 28 municipalities under Khulna. It has the world's biggest mangrove forest, the Sundarbans and more historycal place.
+package 1 :
+Time:7 days 6 nights.
+Places to Visit: Sundarbans, ShaitGumbad MosqueSingar Mosque,Nine Domed Mosque,Ronvijoypur Mosque,Khanjahan Ali Tomb,Khodla Math Temple,MONGLA PORt,rupsha bridge
+FOOD : daily breakfast lunch and dinner with all taxes & service charge included
+Hotel:Hotel Royal International(5*)
+cost:20000
+package 2:
+Time:4 days 3 nights.
+Places to Visit: Sundarbans,ShaitGumbad MosqueSingar Mosque,Nine Domed Mosque,Ronvijoypur Mosque, Khanjahan Ali Tomb,Khodla Math Temple
+FOOD : daily breakfast lunch and dinner with all taxes & service charge included.
+Hotel:Hotel Babla
+cost:15000
+package 3:
+Time:3 days 2 nights.
+Places to Visit: Sundarbans,ShaitGumbad MosqueSingar Mosque,Nine Domed Mosque,Ronvijoypur Mosque.
+FOOD : daily breakfast lunch and dinner with all taxes & service charge included.
+Hotel:Hotel Castle Salam
+cost:10000
